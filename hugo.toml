@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/findingy/calc2site'
+baseURL = 'https://findingy.github.io/calc2site'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
