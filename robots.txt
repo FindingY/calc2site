@@ -1,1 +1,3 @@
 User-agent: *
+Allow: /
+Sitemap: https://findingy.github.io/calc2site/sitemap.xml
