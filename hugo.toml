@@ -1,0 +1,5 @@
+baseURL = 'https://findingy.github.io/calc2site'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+theme = 'blowfish'
